@@ -1,0 +1,6 @@
+This folder is an independent python script of the TRABI method.
+It has been choosen to write the TRABI independently and in two different language in order to reduce the risk that the code does not have a coding error.
+
+Generation_of_plot.py
+Contained the main a protected function which generate all the plot
+The other files are function used by Generation_of_plot()
