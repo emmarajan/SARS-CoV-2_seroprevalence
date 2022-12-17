@@ -1,19 +1,18 @@
 cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
-type: article
 authors:
-- family-names: "Lamparter"
-	given-names: "David"
-- family-names: "Jacquat"
-	given-names: "Raphaël P. B."
-- family-names: "Riou"
-	given-names: "Julien"
-- family-names: "Menges"
-	given-names: "Dominik"
-- family-names: "Ballouz"
-	given-names: "Tala"
-- family-names: "Emmenegger"
-	given-names: "Marc"
+  - family-names: Lamparter
+    given-names: David
+  - family-names: Jacquat
+    given-names: Raphaël P. B.
+  - family-names: Riou
+    given-names: Julien
+  - family-names: Menges
+    given-names: Dominik
+  - family-names: Ballouz
+    given-names: Tala
+  - family-names: Emmenegger
+    given-names: Marc
 title: Code repository for SARS-CoV-2 seroprevalence study
 version: v.1.0.0
 date-released: 2022-12-17
